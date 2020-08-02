@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Counter Recode</string>
+    <string name="count">COUNT</string>
+    <string name="view_num">0</string>
+</resources>
